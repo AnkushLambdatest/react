@@ -23,4 +23,4 @@ nodeVersion: 14.17.6
 version: 1.0
 parallelism: 2
 splitMode: file
-#test
+#tests
